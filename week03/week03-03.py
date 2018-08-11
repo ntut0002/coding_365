@@ -1,0 +1,5 @@
+K = input(905067,100,100,100)
+input()
+input()
+input()
+input()
